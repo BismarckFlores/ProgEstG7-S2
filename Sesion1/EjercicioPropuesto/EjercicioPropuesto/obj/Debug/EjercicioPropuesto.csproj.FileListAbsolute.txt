@@ -1,0 +1,7 @@
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\EjercicioPropuesto\EjercicioPropuesto\bin\Debug\EjercicioPropuesto.exe.config
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\EjercicioPropuesto\EjercicioPropuesto\bin\Debug\EjercicioPropuesto.exe
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\EjercicioPropuesto\EjercicioPropuesto\bin\Debug\EjercicioPropuesto.pdb
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\EjercicioPropuesto\EjercicioPropuesto\obj\Debug\EjercicioPropuesto.csproj.AssemblyReference.cache
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\EjercicioPropuesto\EjercicioPropuesto\obj\Debug\EjercicioPropuesto.csproj.CoreCompileInputs.cache
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\EjercicioPropuesto\EjercicioPropuesto\obj\Debug\EjercicioPropuesto.exe
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\EjercicioPropuesto\EjercicioPropuesto\obj\Debug\EjercicioPropuesto.pdb
