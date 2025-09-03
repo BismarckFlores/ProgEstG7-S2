@@ -1,0 +1,7 @@
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\IdentificaciónDeErrores\IdentificaciónDeErrores\bin\Debug\IdentificaciónDeErrores.exe.config
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\IdentificaciónDeErrores\IdentificaciónDeErrores\bin\Debug\IdentificaciónDeErrores.exe
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\IdentificaciónDeErrores\IdentificaciónDeErrores\bin\Debug\IdentificaciónDeErrores.pdb
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\IdentificaciónDeErrores\IdentificaciónDeErrores\obj\Debug\IdentificaciónDeErrores.csproj.AssemblyReference.cache
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\IdentificaciónDeErrores\IdentificaciónDeErrores\obj\Debug\IdentificaciónDeErrores.csproj.CoreCompileInputs.cache
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\IdentificaciónDeErrores\IdentificaciónDeErrores\obj\Debug\IdentificaciónDeErrores.exe
+C:\Users\bisma\Documents\UAM\ProgEstructurada\Sem2\Sesion1\IdentificaciónDeErrores\IdentificaciónDeErrores\obj\Debug\IdentificaciónDeErrores.pdb
